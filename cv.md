@@ -18,3 +18,12 @@
     SDLC: Waterfall, Kanban
     Other: HTML, CSS
     QA: theoretical knowledge of software testing process.
+
+## Experience:
+    Create and support website RoomAll.ml
+ 
+   [RoomAll.ml](https://RoomAll.ml)
+ 
+    6 months experience in JavaSE
+ 
+   [https://github.com/DeFedotov](https://github.com/DeFedotov)
