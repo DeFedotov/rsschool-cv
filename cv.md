@@ -34,3 +34,8 @@
     EPAM, Automated Testing
     Codecademy (HTML, CSS)
     HTML Academy (HTML, CSS)
+
+## English:
+    Read books and watch films in English.
+    From time to time visit Minsk Conversation Club in Pushkin Library.
+    Have practice on Duolingo, watch English lessons on Youtube.
