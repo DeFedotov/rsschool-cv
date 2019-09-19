@@ -27,3 +27,10 @@
     6 months experience in JavaSE
  
    [https://github.com/DeFedotov](https://github.com/DeFedotov)
+
+## Education:
+    EPAM, Java Unlimited Training
+    EPAM, Java Online Training
+    EPAM, Automated Testing
+    Codecademy (HTML, CSS)
+    HTML Academy (HTML, CSS)
